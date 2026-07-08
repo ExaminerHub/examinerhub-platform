@@ -1,0 +1,16 @@
+C:\Users\share\source\repos\ExaminerHub\examinerhub-platform\src\ExaminerHub.Application\bin\Debug\net10.0\ExaminerHub.Application.deps.json
+C:\Users\share\source\repos\ExaminerHub\examinerhub-platform\src\ExaminerHub.Application\bin\Debug\net10.0\ExaminerHub.Application.dll
+C:\Users\share\source\repos\ExaminerHub\examinerhub-platform\src\ExaminerHub.Application\bin\Debug\net10.0\ExaminerHub.Application.pdb
+C:\Users\share\source\repos\ExaminerHub\examinerhub-platform\src\ExaminerHub.Application\bin\Debug\net10.0\ExaminerHub.Domain.dll
+C:\Users\share\source\repos\ExaminerHub\examinerhub-platform\src\ExaminerHub.Application\bin\Debug\net10.0\ExaminerHub.Domain.pdb
+C:\Users\share\source\repos\ExaminerHub\examinerhub-platform\src\ExaminerHub.Application\obj\Debug\net10.0\ExaminerHub.Application.csproj.AssemblyReference.cache
+C:\Users\share\source\repos\ExaminerHub\examinerhub-platform\src\ExaminerHub.Application\obj\Debug\net10.0\ExaminerHub.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\share\source\repos\ExaminerHub\examinerhub-platform\src\ExaminerHub.Application\obj\Debug\net10.0\ExaminerHub.Application.AssemblyInfoInputs.cache
+C:\Users\share\source\repos\ExaminerHub\examinerhub-platform\src\ExaminerHub.Application\obj\Debug\net10.0\ExaminerHub.Application.AssemblyInfo.cs
+C:\Users\share\source\repos\ExaminerHub\examinerhub-platform\src\ExaminerHub.Application\obj\Debug\net10.0\ExaminerHub.Application.csproj.CoreCompileInputs.cache
+C:\Users\share\source\repos\ExaminerHub\examinerhub-platform\src\ExaminerHub.Application\obj\Debug\net10.0\ExaminerHub.Application.sourcelink.json
+C:\Users\share\source\repos\ExaminerHub\examinerhub-platform\src\ExaminerHub.Application\obj\Debug\net10.0\Examiner.495B54F9.Up2Date
+C:\Users\share\source\repos\ExaminerHub\examinerhub-platform\src\ExaminerHub.Application\obj\Debug\net10.0\ExaminerHub.Application.dll
+C:\Users\share\source\repos\ExaminerHub\examinerhub-platform\src\ExaminerHub.Application\obj\Debug\net10.0\refint\ExaminerHub.Application.dll
+C:\Users\share\source\repos\ExaminerHub\examinerhub-platform\src\ExaminerHub.Application\obj\Debug\net10.0\ExaminerHub.Application.pdb
+C:\Users\share\source\repos\ExaminerHub\examinerhub-platform\src\ExaminerHub.Application\obj\Debug\net10.0\ref\ExaminerHub.Application.dll

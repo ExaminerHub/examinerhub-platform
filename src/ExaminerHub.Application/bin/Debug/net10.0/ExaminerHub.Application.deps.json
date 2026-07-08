@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "ExaminerHub.Application/1.0.0": {
+        "dependencies": {
+          "ExaminerHub.Domain": "1.0.0"
+        },
+        "runtime": {
+          "ExaminerHub.Application.dll": {}
+        }
+      },
+      "ExaminerHub.Domain/1.0.0": {
+        "runtime": {
+          "ExaminerHub.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExaminerHub.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ExaminerHub.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
