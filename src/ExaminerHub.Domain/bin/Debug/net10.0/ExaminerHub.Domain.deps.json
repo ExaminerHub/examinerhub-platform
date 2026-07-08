@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "ExaminerHub.Domain/1.0.0": {
+        "runtime": {
+          "ExaminerHub.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExaminerHub.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

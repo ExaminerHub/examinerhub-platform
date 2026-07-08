@@ -1,0 +1,12 @@
+C:\Users\share\source\repos\ExaminerHub\examinerhub-platform\src\ExaminerHub.Domain\bin\Debug\net10.0\ExaminerHub.Domain.deps.json
+C:\Users\share\source\repos\ExaminerHub\examinerhub-platform\src\ExaminerHub.Domain\bin\Debug\net10.0\ExaminerHub.Domain.dll
+C:\Users\share\source\repos\ExaminerHub\examinerhub-platform\src\ExaminerHub.Domain\bin\Debug\net10.0\ExaminerHub.Domain.pdb
+C:\Users\share\source\repos\ExaminerHub\examinerhub-platform\src\ExaminerHub.Domain\obj\Debug\net10.0\ExaminerHub.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\share\source\repos\ExaminerHub\examinerhub-platform\src\ExaminerHub.Domain\obj\Debug\net10.0\ExaminerHub.Domain.AssemblyInfoInputs.cache
+C:\Users\share\source\repos\ExaminerHub\examinerhub-platform\src\ExaminerHub.Domain\obj\Debug\net10.0\ExaminerHub.Domain.AssemblyInfo.cs
+C:\Users\share\source\repos\ExaminerHub\examinerhub-platform\src\ExaminerHub.Domain\obj\Debug\net10.0\ExaminerHub.Domain.csproj.CoreCompileInputs.cache
+C:\Users\share\source\repos\ExaminerHub\examinerhub-platform\src\ExaminerHub.Domain\obj\Debug\net10.0\ExaminerHub.Domain.sourcelink.json
+C:\Users\share\source\repos\ExaminerHub\examinerhub-platform\src\ExaminerHub.Domain\obj\Debug\net10.0\ExaminerHub.Domain.dll
+C:\Users\share\source\repos\ExaminerHub\examinerhub-platform\src\ExaminerHub.Domain\obj\Debug\net10.0\refint\ExaminerHub.Domain.dll
+C:\Users\share\source\repos\ExaminerHub\examinerhub-platform\src\ExaminerHub.Domain\obj\Debug\net10.0\ExaminerHub.Domain.pdb
+C:\Users\share\source\repos\ExaminerHub\examinerhub-platform\src\ExaminerHub.Domain\obj\Debug\net10.0\ref\ExaminerHub.Domain.dll
