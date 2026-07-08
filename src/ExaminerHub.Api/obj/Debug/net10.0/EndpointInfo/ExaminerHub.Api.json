@@ -21,11 +21,26 @@
           }
         }
       }
+    },
+    "/api/Sessions": {
+      "get": {
+        "tags": [
+          "Sessions"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
     }
   },
   "tags": [
     {
       "name": "Health"
+    },
+    {
+      "name": "Sessions"
     }
   ]
 }
