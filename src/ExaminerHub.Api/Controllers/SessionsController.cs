@@ -1,4 +1,4 @@
-﻿using ExaminerHub.Domain.Entities;
+﻿using ExaminerHub.Application.Services;
 using Microsoft.AspNetCore.Mvc;
 
 namespace ExaminerHub.Api.Controllers;
@@ -7,20 +7,16 @@ namespace ExaminerHub.Api.Controllers;
 [Route("api/[controller]")]
 public class SessionsController : ControllerBase
 {
+    private readonly SessionService _sessionService;
+
+    public SessionsController(SessionService sessionService)
+    {
+        _sessionService = sessionService;
+    }
+
     [HttpGet]
     public IActionResult Get()
     {
-        var sessions = new List<Session>
-        {
-            new()
-            {
-                Id = Guid.NewGuid(),
-                Title = "B2 First Speaking Session",
-                ScheduledDate = DateTime.Today.AddDays(3),
-                Location = "Kensite Murcia"
-            }
-        };
-
-        return Ok(sessions);
+        return Ok(_sessionService.GetSessions());
     }
 }
