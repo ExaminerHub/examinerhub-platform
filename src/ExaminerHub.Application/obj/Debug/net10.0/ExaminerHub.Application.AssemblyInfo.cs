@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ExaminerHub.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+be68a1f1658948ed2cfadc386e66f7d8e4733595")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+da7227a6d95ac6515b2ba188520e552d566bb31a")]
 [assembly: System.Reflection.AssemblyProductAttribute("ExaminerHub.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ExaminerHub.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
