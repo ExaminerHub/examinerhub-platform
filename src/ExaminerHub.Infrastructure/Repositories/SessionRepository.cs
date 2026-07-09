@@ -1,21 +1,20 @@
 ﻿using ExaminerHub.Application.Interfaces;
 using ExaminerHub.Domain.Entities;
+using ExaminerHub.Infrastructure.Data;
 
 namespace ExaminerHub.Infrastructure.Repositories;
 
 public class SessionRepository : ISessionRepository
 {
+    private readonly ExaminerHubDbContext _context;
+
+    public SessionRepository(ExaminerHubDbContext context)
+    {
+        _context = context;
+    }
+
     public IEnumerable<Session> GetSessions()
     {
-        return new List<Session>
-        {
-            new Session
-            {
-                Id = Guid.NewGuid(),
-                Title = "B2 First Speaking Session",
-                ScheduledDate = DateTime.Today.AddDays(2),
-                Location = "Kensite Murcia"
-            }
-        };
+        return _context.Sessions.ToList();
     }
 }
