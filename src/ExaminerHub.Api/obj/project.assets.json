@@ -59,6 +59,20 @@
         "runtime": {
           "bin/placeholder/ExaminerHub.Domain.dll": {}
         }
+      },
+      "ExaminerHub.Infrastructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "dependencies": {
+          "ExaminerHub.Application": "1.0.0",
+          "ExaminerHub.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ExaminerHub.Infrastructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ExaminerHub.Infrastructure.dll": {}
+        }
       }
     }
   },
@@ -108,12 +122,18 @@
       "type": "project",
       "path": "../ExaminerHub.Domain/ExaminerHub.Domain.csproj",
       "msbuildProject": "../ExaminerHub.Domain/ExaminerHub.Domain.csproj"
+    },
+    "ExaminerHub.Infrastructure/1.0.0": {
+      "type": "project",
+      "path": "../ExaminerHub.Infrastructure/ExaminerHub.Infrastructure.csproj",
+      "msbuildProject": "../ExaminerHub.Infrastructure/ExaminerHub.Infrastructure.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net10.0": [
       "ExaminerHub.Application >= 1.0.0",
       "ExaminerHub.Domain >= 1.0.0",
+      "ExaminerHub.Infrastructure >= 1.0.0",
       "Microsoft.AspNetCore.OpenApi >= 10.0.9"
     ]
   },
@@ -155,6 +175,9 @@
             },
             "C:\\Users\\share\\source\\repos\\ExaminerHub\\examinerhub-platform\\src\\ExaminerHub.Domain\\ExaminerHub.Domain.csproj": {
               "projectPath": "C:\\Users\\share\\source\\repos\\ExaminerHub\\examinerhub-platform\\src\\ExaminerHub.Domain\\ExaminerHub.Domain.csproj"
+            },
+            "C:\\Users\\share\\source\\repos\\ExaminerHub\\examinerhub-platform\\src\\ExaminerHub.Infrastructure\\ExaminerHub.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\share\\source\\repos\\ExaminerHub\\examinerhub-platform\\src\\ExaminerHub.Infrastructure\\ExaminerHub.Infrastructure.csproj"
             }
           }
         }

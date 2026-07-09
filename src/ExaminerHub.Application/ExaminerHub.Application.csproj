@@ -10,4 +10,8 @@
     <ProjectReference Include="..\ExaminerHub.Domain\ExaminerHub.Domain.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Repositories\" />
+  </ItemGroup>
+
 </Project>

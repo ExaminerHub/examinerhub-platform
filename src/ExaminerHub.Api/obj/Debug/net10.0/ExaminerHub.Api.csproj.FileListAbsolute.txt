@@ -37,3 +37,5 @@ C:\Users\share\source\repos\ExaminerHub\examinerhub-platform\src\ExaminerHub.Api
 C:\Users\share\source\repos\ExaminerHub\examinerhub-platform\src\ExaminerHub.Api\bin\Debug\net10.0\ExaminerHub.Domain.pdb
 C:\Users\share\source\repos\ExaminerHub\examinerhub-platform\src\ExaminerHub.Api\bin\Debug\net10.0\ExaminerHub.Application.dll
 C:\Users\share\source\repos\ExaminerHub\examinerhub-platform\src\ExaminerHub.Api\bin\Debug\net10.0\ExaminerHub.Application.pdb
+C:\Users\share\source\repos\ExaminerHub\examinerhub-platform\src\ExaminerHub.Api\bin\Debug\net10.0\ExaminerHub.Infrastructure.dll
+C:\Users\share\source\repos\ExaminerHub\examinerhub-platform\src\ExaminerHub.Api\bin\Debug\net10.0\ExaminerHub.Infrastructure.pdb
