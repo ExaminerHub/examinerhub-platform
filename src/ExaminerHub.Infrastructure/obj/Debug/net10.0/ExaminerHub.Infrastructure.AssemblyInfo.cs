@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ExaminerHub.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f0e59e5f4af1f10da6550d8de92487de47940172")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+11f131a35f603dcfb51c1af958f3d28641ad8e0e")]
 [assembly: System.Reflection.AssemblyProductAttribute("ExaminerHub.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ExaminerHub.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

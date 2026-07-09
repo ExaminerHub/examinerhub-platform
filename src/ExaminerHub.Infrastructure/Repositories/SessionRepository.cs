@@ -17,4 +17,12 @@ public class SessionRepository : ISessionRepository
     {
         return _context.Sessions.ToList();
     }
+
+    public Session AddSession(Session session)
+    {
+        _context.Sessions.Add(session);
+        _context.SaveChanges();
+
+        return session;
+    }
 }

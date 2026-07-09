@@ -1,5 +1,6 @@
 ﻿using ExaminerHub.Application.Services;
 using Microsoft.AspNetCore.Mvc;
+using ExaminerHub.Domain.Entities;
 
 namespace ExaminerHub.Api.Controllers;
 
@@ -18,5 +19,13 @@ public class SessionsController : ControllerBase
     public IActionResult Get()
     {
         return Ok(_sessionService.GetSessions());
+    }
+
+    [HttpPost]
+    public IActionResult Create(Session session)
+    {
+        var createdSession = _sessionService.AddSession(session);
+
+        return CreatedAtAction(nameof(Get), new { id = createdSession.Id }, createdSession);
     }
 }

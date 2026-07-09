@@ -16,4 +16,9 @@ public class SessionService
     {
         return _sessionRepository.GetSessions();
     }
+
+    public Session AddSession(Session session)
+    {
+        return _sessionRepository.AddSession(session);
+    }
 }

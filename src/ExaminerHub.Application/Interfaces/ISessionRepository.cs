@@ -5,4 +5,6 @@ namespace ExaminerHub.Application.Interfaces;
 public interface ISessionRepository
 {
     IEnumerable<Session> GetSessions();
+
+    Session AddSession(Session session);
 }

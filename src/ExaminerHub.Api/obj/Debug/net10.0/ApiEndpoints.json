@@ -18,5 +18,21 @@
     "Order": 0,
     "Parameters": [],
     "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ExaminerHub.Api.Controllers.SessionsController",
+    "Method": "Create",
+    "RelativePath": "api/Sessions",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "session",
+        "Type": "ExaminerHub.Domain.Entities.Session",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
   }
 ]
