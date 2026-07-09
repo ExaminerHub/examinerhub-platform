@@ -16,3 +16,5 @@ C:\Users\share\source\repos\ExaminerHub\examinerhub-platform\src\ExaminerHub.Inf
 C:\Users\share\source\repos\ExaminerHub\examinerhub-platform\src\ExaminerHub.Infrastructure\obj\Debug\net10.0\refint\ExaminerHub.Infrastructure.dll
 C:\Users\share\source\repos\ExaminerHub\examinerhub-platform\src\ExaminerHub.Infrastructure\obj\Debug\net10.0\ExaminerHub.Infrastructure.pdb
 C:\Users\share\source\repos\ExaminerHub\examinerhub-platform\src\ExaminerHub.Infrastructure\obj\Debug\net10.0\ref\ExaminerHub.Infrastructure.dll
+C:\Users\share\source\repos\ExaminerHub\examinerhub-platform\src\ExaminerHub.Infrastructure\bin\Debug\net10.0\ExaminerHub.Infrastructure.runtimeconfig.json
+C:\Users\share\source\repos\ExaminerHub\examinerhub-platform\src\ExaminerHub.Infrastructure\obj\Debug\net10.0\ExaminerHub.Infrastructure.genruntimeconfig.cache
