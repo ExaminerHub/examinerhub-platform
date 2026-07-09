@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ExaminerHub.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+15f170afeac65155498e667c7ace8c4e4ff2d90c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0f20dc1fd65b7931b165132291a03fdb17bf6a37")]
 [assembly: System.Reflection.AssemblyProductAttribute("ExaminerHub.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ExaminerHub.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
