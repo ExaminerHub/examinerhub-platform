@@ -11,24 +11,12 @@ public class ExaminerHubDbContext : DbContext
     }
 
     public DbSet<Session> Sessions => Set<Session>();
+    public DbSet<Centre> Centres => Set<Centre>();
+    public DbSet<Room> Rooms => Set<Room>();
+    public DbSet<Examiner> Examiners => Set<Examiner>();
+    public DbSet<ExamAssignment> ExamAssignments => Set<ExamAssignment>();
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
-        modelBuilder.Entity<Session>().HasData(
-            new Session
-            {
-                Id = Guid.Parse("11111111-1111-1111-1111-111111111111"),
-                Title = "B2 First Speaking Session",
-                ScheduledDate = new DateTime(2026, 7, 11),
-                Location = "Kensite Murcia"
-            },
-            new Session
-            {
-                Id = Guid.Parse("22222222-2222-2222-2222-222222222222"),
-                Title = "C1 Advanced Speaking Session",
-                ScheduledDate = new DateTime(2026, 7, 14),
-                Location = "Kensite Alicante"
-            }
-        );
     }
 }
