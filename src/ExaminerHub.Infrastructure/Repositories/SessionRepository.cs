@@ -1,6 +1,7 @@
 ﻿using ExaminerHub.Application.Interfaces;
 using ExaminerHub.Domain.Entities;
 using ExaminerHub.Infrastructure.Data;
+using Microsoft.EntityFrameworkCore;
 
 namespace ExaminerHub.Infrastructure.Repositories;
 
@@ -15,7 +16,11 @@ public class SessionRepository : ISessionRepository
 
     public IEnumerable<Session> GetSessions()
     {
-        return _context.Sessions.ToList();
+        return _context.Sessions
+            .Include(s => s.Centre)
+            .Include(s => s.Room)
+            .Include(s => s.ExamAssignments)
+            .ToList();
     }
 
     public Session AddSession(Session session)
