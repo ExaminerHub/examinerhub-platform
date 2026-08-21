@@ -1,4 +1,5 @@
 # ExaminerHub
+🇬🇧 **English** | [🇪🇸 Español](README.es.md)
 
 **A full-stack examination operations platform designed to simplify the planning and delivery of Cambridge English speaking examination sessions.**
 
